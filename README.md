@@ -197,8 +197,8 @@ telegram-moderator-bot/
 
 ## 📞 Поддержка
 
-- 🐛 [Сообщить о проблеме](https://github.com/yourusername/telegram-moderator-bot/issues)
-- 💡 [Предложить идею](https://github.com/deampgen/BOT/discussions)
+- 🐛 [Сообщить о проблеме]([https://github.com/yourusername/telegram-moderator-bot/](https://github.com/deampgen/BOT-SUPPORT)/issues)
+- 💡 [Предложить идею]([https://github.com/deampgen/BOT/](https://github.com/deampgen/BOT-SUPPORT)/discussions)
 - 📧 Связаться с разработчиком
 
 ---
